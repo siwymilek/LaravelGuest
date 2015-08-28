@@ -1,0 +1,17 @@
+{
+    "name": "siwymilek/guests",
+    "description": "Anonymouse members handler",
+    "authors": [
+        {
+            "name": "Peter Miloszewicz",
+            "email": "pmiloszewicz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Siwymilek\\": "src/"
+        }
+    }
+}
